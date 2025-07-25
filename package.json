@@ -22,5 +22,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "exports": {
+    ".": "./src/astro/index.js",
+    "./vite": "./src/vite/index.js"
   }
 }
