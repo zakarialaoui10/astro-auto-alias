@@ -1,0 +1,26 @@
+{
+  "name": "astro-auto-alias",
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [
+    "astro-integration",
+    "utility",
+    "global",
+    "auto-alias"
+  ],
+  "homepage": "https://github.com/zakarialaoui10/astro-auto-alias#readme",
+  "bugs": {
+    "url": "https://github.com/zakarialaoui10/astro-auto-alias/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zakarialaoui10/astro-auto-alias.git"
+  },
+  "license": "MIT",
+  "author": "zakaria elalaoui",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
